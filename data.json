@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2024-12-10 15:30:25",
+        "from_amount": 100.00,
+        "from_currency": "USD",
+        "to_amount": 92.50,
+        "to_currency": "EUR",
+        "rate": 0.9250
+    },
+    {
+        "date": "2024-12-10 15:35:12",
+        "from_amount": 5000.00,
+        "from_currency": "RUB",
+        "to_amount": 55.00,
+        "to_currency": "USD",
+        "rate": 0.0110
+    }
+]
